@@ -4,7 +4,7 @@ About Me assignment for The Knowledge House
  #Keanna Jordan
 =============
 
-![Keanna'sImage](https://raw.githubusercontent.com/keychvs/aboutme/main/IMG_3211.JPG)
+<img src="https://raw.githubusercontent.com/keychvs/aboutme/main/IMG_3211.JPG" width="100" height="100">
 
 ##Location:  
 ###Carson, CA
@@ -14,4 +14,4 @@ About Me assignment for The Knowledge House
 ###Case Manager
 --------------------------
 
-Keanna is currently a *Housing Case Manager* for _HealthRight360_. Case Manager aim meet and exceed the organization's goal and expectation. Each member of the organization thrives to extend an opportunity to the re-entry populatio,offer hope, and change lives for people in need.  !-- This script places a badge on your repl's full-browser view back to your repl' s cover page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green, teal, blue, blurple, magenta, pink ! --> <script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="bottom-right" >
+Keanna is currently a *Housing Case Manager* for _HealthRight360_. Case Manager aim meet and exceed the organization's goal and expectation. Each member of the organization thrives to extend an opportunity to the re-entry populatio,offer hope, and change lives for people in need. 
