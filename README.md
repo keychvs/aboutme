@@ -4,7 +4,7 @@ About Me assignment for The Knowledge House
  #Keanna Jordan
 =============
 
-<img src="https://raw.githubusercontent.com/keychvs/aboutme/main/IMG_3211.JPG" width="100" height="500">
+<img src="https://raw.githubusercontent.com/keychvs/aboutme/main/IMG_3211.JPG" width="300" height="400">
 
 ##Location:  
 ###Carson, CA
